@@ -1,0 +1,2 @@
+# blaslah.js
+blaslah
